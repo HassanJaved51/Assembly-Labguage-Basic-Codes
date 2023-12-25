@@ -1,2 +1,2 @@
-# Assembly-Labguage-Basic-Codes
+# Assembly Labguage Basic Codes
 COAL Assembly Language Basic Codes
